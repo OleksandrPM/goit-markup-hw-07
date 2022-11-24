@@ -796,10 +796,6 @@ svg {
   cursor: pointer;
 }
 
-.checkbox-icon > input {
-  opacity: 0;
-}
-
 .check-frame {
   position: absolute;
   top: 0;
