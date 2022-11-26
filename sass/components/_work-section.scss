@@ -1,0 +1,15 @@
+.work-section {
+  padding-top: 0px;
+}
+
+.work-list {
+  display: flex;
+}
+
+.work-list__item {
+  width: 370px;
+
+  &:not(:last-child) {
+    margin-right: 30px;
+  }
+}
